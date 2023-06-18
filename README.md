@@ -14,7 +14,7 @@ This directory contains the Fabfile which is used to execute administration task
 - [ ] `fab install` installs packages declared in the requirements file to virtual environment.
 - [ ] `fab tree` to list files, sub-directories of current directory in a tree-like format.
 
-This Fabfile inspired by fabric tool of POST Luxembourg which is written by Frank Lazzarini <frank.lazzarini@post.lu>
+This Fabfile inspired by fabric tool of POST Luxembourg which is written by Frank Lazzarini.
 
 ## Packages
 - `fabric`: to create autotasks
